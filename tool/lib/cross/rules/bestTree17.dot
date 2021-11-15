@@ -1,0 +1,10 @@
+digraph G {
+	graph [bb="0,0,115.69,36",
+		dpi=78
+	];
+	node [label="\N"];
+	1	 [height=0.5,
+		label="is_merge = 0",
+		pos="57.845,18",
+		width=1.6068];
+}

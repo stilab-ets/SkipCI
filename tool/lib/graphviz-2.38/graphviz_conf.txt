@@ -1,0 +1,4 @@
+# The dir. where temporary files will be created.
+tempDirForWindows10 ="temp"
+# Where is your dot program located? It will be called externally.
+dotForWindows10 = "lib/graphviz-2.38/release/bin/dot.exe"
