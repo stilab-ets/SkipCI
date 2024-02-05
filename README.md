@@ -11,10 +11,15 @@ We provide:
 Please, use the following bibtex entry:
 
 ```tex
-@article{saidani2021skipci,
-    title={Detecting Continuous Integration Skip Commits Using Multi-objective Evolutionary Search},
-    author={Saidani, Islem and Ouni,  Ali and Mkaouer, Mohamed Wiem},
-    journal={IEEE Transactions on Software Engineering},
-    year={2021},
+@article{saidani2021detecting,
+  title={Detecting Continuous Integration Skip Commits Using Multi-Objective Evolutionary Search},
+  author={Saidani, Islem and Ouni, Ali and Mkaouer, Mohamed Wiem},
+  journal={IEEE Transactions on Software Engineering},
+  volume={48},
+  number={12},
+  pages={4873--4891},
+  year={2021},
+  publisher={IEEE}
 }
+
 ```
